@@ -22,11 +22,6 @@ function Home() {
         <span className="heart">✨</span>
         <span className="heart">💖</span>
       </div>
-      <div className="decorative-images">
-        <img src="https://media.istockphoto.com/id/455441259/vector/sorry.jpg?s=612x612&w=0&k=20&c=HvJRF7wEbkFhwZJhauIGZS_Bdi18D6jCkdsf4Uf_M6g=" alt="Sorry" className="decorative-img sorry-img" />
-        <img src="https://media.tenor.com/DdWddLM2wLAAAAAM/cute-animated.gif" alt="Cute animated" className="decorative-img cute-img" />
-        <img src="https://media.tenor.com/nMi95UhfCmkAAAAM/sad-sorry.gif" alt="Sad sorry" className="decorative-img sad-img" />
-      </div>
       <div className="home-content">
         <h1 className="home-title fade-in">Hi Jahanvi</h1>
         <p className="home-text fade-in-delay-1">
