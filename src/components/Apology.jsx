@@ -34,12 +34,15 @@ function Apology() {
       </div>
       <div ref={sectionRef} className="apology-card slide-up">
         <h2 className="apology-heading">I'm really sorry 😢</h2>
+        <div className="apology-gif-container">
+          <img src="https://media.tenor.com/nMi95UhfCmkAAAAM/sad-sorry.gif" alt="Sad sorry" className="apology-card-gif" />
+        </div>
         <div className="apology-text">
           <p>
             I know I hurt you, and I feel terrible about it. I was rude to you when you didn't deserve any of it. You were just thinking for me in a caring way, and instead of listening to you, I responded in a way that must have made you feel so bad and i am sorry for that. 😢
           </p>
           <p>
-            I should have listened to you patiently. Your words, your feelings, your thoughts  they all matter so much to me. I was wrong to not give you the respect you deserve.
+            I should have listened to you patiently. Your words, your feelings, your thoughts they all matter so much to me. I was wrong to not give you the respect you deserve.
           </p>
           <p>
             You are an important person in my life, and the last thing I ever want to do is make you feel unheard or disrespected. I am truly, deeply sorry from the bottom of my heart. 💕

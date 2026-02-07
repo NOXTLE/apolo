@@ -17,12 +17,12 @@ function Promises() {
     {
       emoji: '💪',
       title: 'I will be patient',
-      text: 'You are my peace, not my stress, and I will always be patient and listen to you.'
+      text: 'I will always be patient and listen to you.'
     },
     {
       emoji: '❤️',
-      title: 'I will respect your feelings',
-      text: 'Your feelings are valid and important. I will never dismiss or ignore how you feel.'
+      title: 'I will respect your words',
+      text: 'Your words are valid and important. I will never dismiss.'
     },
     {
       emoji: '🤗',
